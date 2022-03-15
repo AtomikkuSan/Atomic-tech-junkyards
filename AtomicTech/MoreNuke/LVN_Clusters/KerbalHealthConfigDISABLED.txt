@@ -1,0 +1,23 @@
+//This configuration is currently disabled.
+//If you want to use it, you know what to do ;)
+
+//@PART[ATTREL_LV2N]
+//{
+	//MODULE
+	//{
+		//name = ModuleKerbalHealth
+		//alwaysActive = true
+		//radioactivity = 440
+	//}
+//}
+
+//@PART[ATTREL_LV4N]
+//{
+	//MODULE
+	//{
+		//name = ModuleKerbalHealth
+		//alwaysActive = true
+		//radioactivity = 860
+	//}
+//}
+

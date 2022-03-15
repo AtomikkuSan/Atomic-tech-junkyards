@@ -1,0 +1,27 @@
+{
+  "NAME": "Junkyards",
+  "URL": "https://github.com/staticalliam7/Atomic-tech-junkyards",
+  "DOWNLOAD": "https://github.com/staticalliam7/Atomic-tech-junkyards/releases",
+  "GITHUB": {
+    "USERNAME": "Staticalliam7",
+    "REPOSITORY": "AtomicTech-Junkyards"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 10,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 3,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 2,
+    "BUILD": 0
+  }
+}

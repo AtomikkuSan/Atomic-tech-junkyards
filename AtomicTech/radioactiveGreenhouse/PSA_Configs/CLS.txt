@@ -1,0 +1,46 @@
+//Change this file's ending from .txt to .cfg to use it.
+
+@PART[PSAGreenhouse25]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}
+
+@PART[PSAGreenhouse375]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}
+
+@PART[ATGreenhouse125M]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}
+
+@PART[ATGreenhouse5M]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}
+
+@PART[ATGreenhouse1875M]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}

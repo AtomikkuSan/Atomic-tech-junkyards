@@ -1,0 +1,9 @@
+//Change this file's ending from .txt to .cfg to use this patch.
+
+@PART[orbitalPalichi, TaurusMKIV, TohokuScienceBay, RoanokeCommandCentre]:NEEDS[SunkWorks]
+{
+	MODULE
+	{
+		name = WBISuitSwitcher
+	}
+}

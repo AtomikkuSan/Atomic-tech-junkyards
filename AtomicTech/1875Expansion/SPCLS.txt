@@ -1,0 +1,38 @@
+//Change the file's ending from .txt to .cfg to use these patches.
+
+@PART[microLabAtomicTech]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}
+
+@PART[borrowedAltMk2]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}
+
+@PART[orbitalPalichi]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}
+
+@PART[microCrewAtomicTech]:NEEDS[ConnectedLivingSpace]
+{
+	MODULE[ModuleConnectedLivingSpace]
+	  {
+	  	name = ModuleConnectedLivingSpace
+		  passable = true
+	  }
+}
+
