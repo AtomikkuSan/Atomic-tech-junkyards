@@ -1,4 +1,6 @@
-# AtomicTech-Inc.-Junkyards
+# Adopted by Staticalliam7.
+
+## AtomicTech-Inc.-Junkyards
 An odd selection of modified parts and new ones that've made their way into a mod for your enjoyment!
 
 *Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caerfinon, Snark, Jarin, PorkJet, JebediahKerloby, zer0Kerbal, JadeOfMarr, steedcrungeon, LinuxGuruGamer, hoojiwana, Mad Rocket Scientist, Tokamak, LouisB3, RocketWitch, Knight of St. John, and HebaruSan.*
